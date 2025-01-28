@@ -1,0 +1,10 @@
+.DS_Store
+.venv
+venv
+__pycache__
+.pytest_cache
+logs
+build_opencv
+opencv
+opencv_contrib
+media
